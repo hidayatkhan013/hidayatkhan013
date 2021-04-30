@@ -3,10 +3,10 @@
 
 
 ### Hi there, I am Hidayat Ur Rehman 👋
-[![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)](https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/){target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)](https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://hidayatkhan013.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
@@ -14,6 +14,10 @@
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
+- Data Scraping
+- Data Analysis
+- Ethical Hacking
+- Bug bounty
 
 <a href="https://gitstats.me/hidayatkhan013">
     <img width="420" height="auto" align="right" alt="Prerak's github stats" 
