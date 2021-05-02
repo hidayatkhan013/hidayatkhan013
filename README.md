@@ -17,7 +17,7 @@
 - Data Science 😬
 - Data Scraping
 - Data Analysis
-- Ethical Hacking <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">   
+- Ethical Hacking <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="20">   
 - Bug bounty
 
 <a href="https://gitstats.me/hidayatkhan013">
