@@ -5,7 +5,7 @@
 ### Hi there, I am Hidayat Ur Rehman 👋
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)](https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-HidayatKhan013-brightgreen?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/hidayatkhan013)](https://www.fiverr.com/hidayatkhan013)
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/hidayatkhan013)](https://www.fiverr.com/hidayatkhan013)
 
 - 🎯 Portfolio website: [Portfolio](https://hidayatkhan013.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
@@ -17,7 +17,7 @@
 - Data Science 😬
 - Data Scraping
 - Data Analysis
-- Ethical Hacking
+- Ethical Hacking <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">   
 - Bug bounty
 
 <a href="https://gitstats.me/hidayatkhan013">
