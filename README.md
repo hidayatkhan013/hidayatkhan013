@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Hidayat Ur Rehman 👋
-### I am lazy because I write programs to automate
+### I am lazy that's why I automate
 
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)](https://www.linkedin.com/in/hidayat-ur-rehman-20981717b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
