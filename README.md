@@ -4,8 +4,7 @@
 
 ### Hi there, I am Hidayat Ur Rehman 👋
 ### I am lazy that's why I automate
- <a href="https://www.facebook.com/" target="_blank">Go to application</a> 
-[![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hidayatkhan013/)](https://www.linkedin.com/in/hidayatkhan013/)
+[![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/hidayatkhan013/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/hidayatkhan013)](https://www.fiverr.com/hidayatkhan013)
 
