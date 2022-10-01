@@ -1,10 +1,5 @@
 <img align="right" src="/developer.gif" alt="Coder GIF" width="420" height="330">
 
-For Jekyll
-[text-to-highlight](actual-link){:target="\_blank"}
-
-For others
-<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### Hi there, I am Hidayat Ur Rehman 👋
 ### I am lazy that's why I automate
@@ -12,7 +7,7 @@ For others
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/hidayatkhan013)](https://www.fiverr.com/hidayatkhan013)
 
-- 🎯 Portfolio website: [Portfolio](https://hidayatkhan013.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://hidayatkhan013.github.io/){:target="\_blank"}
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
