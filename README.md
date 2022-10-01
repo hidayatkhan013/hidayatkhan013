@@ -1,6 +1,6 @@
 <img align="right" src="/developer.gif" alt="Coder GIF" width="420" height="330">
 
-
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 ### Hi there, I am Hidayat Ur Rehman 👋
 ### I am lazy that's why I automate
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/hidayatkhan013/)
