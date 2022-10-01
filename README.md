@@ -1,6 +1,10 @@
 <img align="right" src="/developer.gif" alt="Coder GIF" width="420" height="330">
 
+For Jekyll
+[text-to-highlight](actual-link){:target="\_blank"}
 
+For others
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### Hi there, I am Hidayat Ur Rehman 👋
 ### I am lazy that's why I automate
