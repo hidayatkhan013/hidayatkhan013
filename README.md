@@ -1,13 +1,12 @@
 <img align="right" src="/developer.gif" alt="Coder GIF" width="420" height="330">
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 ### Hi there, I am Hidayat Ur Rehman 👋
 ### I am lazy that's why I automate
 [![Linkedin Badge](https://img.shields.io/badge/Linked%20In-Hidayat%20Ur%20Rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/hidayatkhan013/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Hidayat%20Ur%20Rehman-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hidayatkhan013@gmail.com)](mailto:hidayatkhan013@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/hidayatkhan013)](https://www.fiverr.com/hidayatkhan013)
 
-- 🎯 Portfolio website: [Portfolio](https://hidayatkhan013.github.io/){:target="\_blank"}
+- 🎯 Portfolio website: ![Portfolio](https://hidayatkhan013.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
